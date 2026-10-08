@@ -185,11 +185,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "8f3d71a17e79c1a1",
   "lastOpenFiles": [
+    "context.md",
     "README.md"
   ]
 }
